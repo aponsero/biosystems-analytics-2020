@@ -161,6 +161,10 @@ To install python run the following at the WSL:
 
 sudo apt install python3 python3-pip ipython3`
 
+Let's also install a bunch of usefull python packages:
+
+`sudo apt install python-pytest`
+
 ### 2. Install PyCharm
 Note: you can only use and invoke PyCharm for the files in the Windows filesystem (also accessible form the WSL at /mnt/c/Users/<user-name>).
 PyCharm is a complete IDE for Python, allowing you to run directly the code through the interface. It has a lot of options and possibilities, but is more difficult to use. Alternatively, you can install Notepadd++, which is a good old notepad, that will allow you to edit your code (see below).
